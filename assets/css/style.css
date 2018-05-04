@@ -1,0 +1,192 @@
+body {
+  background-image: url("https://blog.spoongraphics.co.uk/wp-content/uploads/2012/textures/20.jpg");
+  font-family: 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #777777;
+  height: 100%; 
+  
+ }
+ 
+ .wrapper1 {
+   width: 100%;
+   height: 75px;
+   background-color: #ffffff;
+   margin: 0 auto;
+   margin-bottom: 40px; 
+   
+ }
+
+ .wrapper2 {
+   width: 960px;
+   background-color: #fff;
+  margin: 0 auto;
+  padding: 30px;
+ }
+ 
+
+
+h1,
+h2 {
+  font-family: 'Georgia','Times', 'Times New Roman', serif;
+  font-size: 30px;
+  color: #4aaaa5;
+}
+
+ /* Navigation */
+
+ ul {
+   text-align: right;
+   
+ }
+
+li {
+  display: inline-block;
+  padding: 20px;
+}
+
+ a {
+   font-size: 12px;
+   color: #777777;
+   text-decoration: none;
+ }
+
+ .logo {
+  width: 180px;
+  height: 60px;
+  margin-top: 15px;
+  margin-left: 20px;
+  display: inline-block;
+  float: left;
+}
+
+/* Main-content */
+ 
+img {
+  width: 200px;
+  height: 200px;
+}
+
+p {
+  font-size: 14px;
+  line-height: 1.5;
+  padding-right: 30px;
+  margin-bottom: 10px;
+  margin-right: 20px;
+  /* margin-top: 20px;  */
+}
+
+
+
+.bottom-p {
+  clear: right;
+}
+
+
+/* Portfolio */
+
+ img {
+   width: 300px;
+   height: 200px;
+   margin-bottom: 10px;
+   border: 1px solid #bbbbbb;
+   
+ }
+ .project {
+   float: left;
+   position: relative;
+ }
+ h3 {
+  background-color: #4aaaa5;
+  color: #fff;
+  width: 300px;
+  height: 40px;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 10px;
+  position: absolute;
+  bottom: 70px;
+}
+
+.padding-images {
+  padding-top: 30px;
+}
+ 
+ 
+ /* Contact */
+ 
+ .form {
+   width: 95%;
+   margin: 0 auto;
+   padding-right: 30px;
+
+ }
+ 
+ #btn {
+   background-color: #4aaaa5;
+   padding: 10px 20px;
+   color: #fff;
+ }
+ 
+ /* Footer */
+ 
+ .footer {
+   background-color: #666666;
+   height: 75px;
+   border-top: 3px solid #4aaaa5;
+   text-align: center;
+   font-size: 14px;
+   color: #c4c4c4;
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+   margin: 0 auto;
+ }
+ 
+
+ 
+ 
+
+
+/* Media Queries */
+@media (maxiwidth: 992px) {
+
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 576px) {
+
+}
+
+
+ /* Misc */
+ 
+ 
+ /* #header {
+  width: 100%;
+  height: 80px;
+  background-color: #fff;
+  border-bottom: 1px solid #9b9999;
+  margin-bottom: 49px;
+  position: relative;
+  
+} */
+ 
+ /* figure {
+   position: relative;
+   bottom: -50px;
+ } */
+ 
+  /* .head-title {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 20px;
+ } */
+ 
+ 
+ 
+ 
+ 
